@@ -1,0 +1,13 @@
+@echo off
+Title Welcome to CRC-App Launcher Tool
+echo Please connect to your Anyconnect VPN and have a great shift :)
+pause
+
+start onenote.exe
+start outlook.exe
+start Chrome.exe https://ubisoft.my.salesforce.com/
+start Chrome.exe https://console.online.ubisoft.org/customer-relations/p360-profile-logs/e:prod!p:d5036641-98ac-4d00-8c34-fa39b735988e!b:%7B%22selectedTabIndex%22%3A0%7D!t:%7B%22page%22%3A%22test%22%7D
+start Chrome.exe https://portal.upc.ubisoft.org/#/users/d5036641-98ac-4d00-8c34-fa39b735988e/activations?page=1
+start Chrome.exe https://crc-landing-page.horizon.ubisoft.org/
+start Chrome.exe https://my.norton.com/extspa/passwordmanager?path=pwd-gen
+start Chrome.exe https://ubisoft.via.aspect-cloud.net/WFO/default/home/Dashboard
